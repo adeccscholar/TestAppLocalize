@@ -1,0 +1,6 @@
+[submodule "pugiXML"]
+	path = pugiXML
+	url = https://github.com/zeux/pugixml.git
+[submodule "adecc Scholar"]
+	path = adecc Scholar
+	url = https://github.com/adeccscholar/adecc_Scholar.git
