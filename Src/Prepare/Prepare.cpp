@@ -15,8 +15,6 @@
 #include <boost/locale.hpp>
 
 
-
-
 // Bezeichner, Typ, Align, Caption, Hint, ID
 using tplFormElements    = std::tuple<std::string, int, int, std::string, std::string, int>;
 using vecFormElements    = std::vector<tplFormElements>;
